@@ -1,5 +1,20 @@
-# Rick Glenn / Exocognosis
+# Rick Glenn — exocognosis
 
-I build systems where cryptography, local AI, security engineering, and product automation meet. My public work centers on post-quantum infrastructure, offline developer security tools, privacy-preserving networks, and recommendation research. In Rust, I prototype validator-scale threshold signature aggregation for ML-DSA/lattice schemes, mesh networking primitives, hybrid key exchange, signed peer records, and reproducible protocol simulations. In Python, I build practical AI-security tooling such as OpenMythos: an offline, Apple-Silicon-optimized vulnerability scanner that combines Semgrep, Bandit, local LLM reasoning, SARIF output, and adaptive recurrent-depth triage. I also explore personalization systems through FractalX, a research prototype that models user interests as hierarchical, multi-resolution structures instead of flat vectors.
+**Staff Rust Engineer & Post-Quantum Blockchain Architect**
 
-My strengths are turning speculative technical ideas into testable artifacts: threat models, protocol boundaries, CLI workflows, dashboards, benchmark exporters, and documentation that admits what is proven and what is still experimental. I care about sovereign computing, local-first tools, privacy, cryptographic resilience, distributed systems, and AI that helps developers reason without shipping their source code to someone else's server. I am especially drawn to tools that make hard security decisions observable, reproducible, and usable by operators under real constraints and practical production feedback loops. Exocognosis is where I publish experiments that connect security, intelligence, markets, and resilient infrastructure.
+I build high-performance, security-first systems. Most notably, I solo-designed and implemented **Dytallix** — a post-quantum cryptography-native Layer 1 blockchain written from scratch in Rust (live testnet).
+
+**Core Expertise:**
+- Rust systems programming & distributed systems
+- Post-quantum cryptography in production environments
+- Blockchain infrastructure (networking, state machines, consensus, execution engines)
+- High-reliability, low-latency, and adversarial-resistant systems
+
+**Featured Work:**
+- **[Dytallix](https://github.com/DytallixHQ)** — PQC L1 Blockchain
+- [lattice-aggregation](https://github.com/exocognosis/lattice-aggregation) — Threshold signature research
+- [pqc-rust-notes](https://github.com/exocognosis/pqc-rust-notes) — Design decisions for production PQC
+
+Open to Staff/Principal Rust roles in blockchain, DeFi infrastructure, and high-performance systems.
+
+[Website](https://www.exocognosis.com) | [LinkedIn](https://www.linkedin.com/in/rick-glenn-593037340/) | [@exocognosis](https://x.com/exocognosis)
