@@ -1,8 +1,8 @@
-# Rick Glenn — exocognosis
+# Rick Glenn | Exocognosis
 
 **Staff Rust Engineer & Post-Quantum Blockchain Architect**
 
-I build high-performance, security-first systems. Most notably, I solo-designed and implemented **Dytallix** — a post-quantum cryptography-native Layer 1 blockchain written from scratch in Rust (live testnet).
+I build high-performance, security-first systems. Most notably, I solo-designed and implemented **Dytallix**, a post-quantum cryptography-native Layer 1 blockchain written from scratch in Rust (live testnet).
 
 **Core Expertise:**
 - Rust systems programming & distributed systems
