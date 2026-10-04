@@ -1,20 +1,13 @@
-# Rick Glenn | Exocognosis
+# Rick Glenn
 
-**Staff Rust Engineer & Post-Quantum Blockchain Architect**
+Protocol engineer. I solo-built a PQC L1 called Dytallix. Testnet live, Mainnet in development.
 
-I build high-performance, security-first systems. Most notably, I solo-designed and implemented **Dytallix**, a post-quantum cryptography-native Layer 1 blockchain written from scratch in Rust (live testnet).
+I work where cryptography meets production systems: PQC migration, Rust protocol engineering, consensus, applied cryptanalysis. I read code before I talk.
 
-**Core Expertise:**
-- Rust systems programming & distributed systems
-- Post-quantum cryptography in production environments
-- Blockchain infrastructure (networking, state machines, consensus, execution engines)
-- High-reliability, low-latency, and adversarial-resistant systems
+Recent work: fixes merged into Quantus Network's PQC L1.
 
-**Featured Work:**
-- **[Dytallix](https://github.com/DytallixHQ)** — PQC L1 Blockchain
-- [lattice-aggregation](https://github.com/exocognosis/lattice-aggregation) — Threshold signature research
-- [pqc-rust-notes](https://github.com/exocognosis/pqc-rust-notes) — Design decisions for production PQC
+Currently taking on short, fixed-scope technical engagements (two-week trials). If your protocol has a bug nobody can pin down or a PQC question nobody can answer, [book a 15-min scoping call](https://calendly.com/rick-dytallix/15-min-scoping-call).
 
-Open to Staff/Principal Rust roles in blockchain, DeFi infrastructure, and high-performance systems.
-
-[Website](https://www.exocognosis.com) | [LinkedIn](https://www.linkedin.com/in/rick-glenn-593037340/) | [@exocognosis](https://x.com/exocognosis)
+- Founder: [Dytallix](https://www.dytallix.com)
+- Portfolio: [exocognosis.com](https://www.exocognosis.com)
+- X: [@exocognosis](https://x.com/exocognosis)
