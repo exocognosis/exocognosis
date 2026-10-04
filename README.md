@@ -4,7 +4,7 @@ Protocol engineer. I solo-built a PQC L1 called Dytallix. Testnet live, Mainnet 
 
 I work where cryptography meets production systems: PQC migration, Rust protocol engineering, consensus, applied cryptanalysis. I read code before I talk.
 
-Recent work: fixes merged into Quantus Network's PQC L1.
+Recent work: fixes merged into [Quantus Network's PQC L1](https://github.com/Quantus-Network/chain/pull/634) and [NEAR core](https://github.com/near/nearcore/pull/16152) (state-sync).
 
 Currently taking on short, fixed-scope technical engagements (two-week trials). If your protocol has a bug nobody can pin down or a PQC question nobody can answer, [book a 15-min scoping call](https://calendly.com/rick-dytallix/15-min-scoping-call).
 
