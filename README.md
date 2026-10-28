@@ -1,16 +1,19 @@
 # Rick Glenn
 
 
-Protocol engineer. I solo-built a PQC L1 called Dytallix. Testnet live, Mainnet in development.
+Fully-agentic, quantum-compliant, Kardashev-scaling autist. 
 
+I solo-built a PQC L1 called Dytallix. Mainnet in pre-launch simulations mode. 
 
-I work where cryptography meets production systems: PQC migration, Rust protocol engineering, consensus, applied cryptanalysis. I read code before I talk.
+I work where cryptography meets production systems: deploying agentic swarms to build in the vertices of PQC migration, Rust protocol engineering, consensus, applied cryptanalysis. 
 
+I read code before I talk.
 
-Recent work: fixes merged into [Quantus Network's PQC L1](https://github.com/Quantus-Network/chain/pull/634) and [NEAR core](https://github.com/near/nearcore/pull/16152) (state-sync).
+Drive-by PR fanboi. 
 
+Seeking collaborative opportunities to build cool stuff.
 
-Seeking collaborative opportunities to build cool stuff. If that's you, let's talk: [book a 15-min scoping call](https://calendly.com/rick-dytallix/15-min-scoping-call).
+Hit me up. 
 
 
 - Founder: [Dytallix](https://www.dytallix.com)
