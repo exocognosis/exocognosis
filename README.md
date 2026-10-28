@@ -16,6 +16,6 @@ Seeking collaborative opportunities to build cool stuff.
 Hit me up. 
 
 
-- Founder: [Dytallix](https://www.dytallix.com)
+- Technical Cofounder: [Dytallix](https://www.dytallix.com)
 - Portfolio: [exocognosis.com](https://www.exocognosis.com)
 - X: [@exocognosis](https://x.com/exocognosis)
